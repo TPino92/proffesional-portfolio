@@ -4,6 +4,10 @@ import Contact from './components/Contact';
 import Portfolio from './components/Projects';
 import Resume from './components/Resume';
 import Nav from './components/Nav'
+import Footer from './components/Footer'
+
+import coverImg from './assets/img/cover-image.png';
+
 
 function App() {
   const [currentPage, setCurrentPage] = useState("about");
@@ -24,6 +28,7 @@ function App() {
       <main>
         {choosePage()}
       </main>
+      <Footer />
     </div>
   );
 }
