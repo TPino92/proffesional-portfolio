@@ -6,9 +6,6 @@ import Resume from './components/Resume';
 import Nav from './components/Nav'
 import Footer from './components/Footer'
 
-import coverImg from './assets/img/cover-image.png';
-
-
 function App() {
   const [currentPage, setCurrentPage] = useState("about");
   let choosePage = () => {
