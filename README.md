@@ -1,10 +1,10 @@
-old repo: https://github.com/TPino92/trevor-pino/settings
+old repo: https://github.com/TPino92/trevor-pino
+
+
+
+Can't push with gh-pages, says 'gh-pages branch already exists'
 
 <!-- error msg on deploy -->
-
-ssh key is already paired to github account not sure what this error is in reguards to.
-
-
 
 PS C:\Users\Trevor Pino\Desktop\trevor-pino> npm run deploy
 
@@ -15,7 +15,7 @@ PS C:\Users\Trevor Pino\Desktop\trevor-pino> npm run deploy
 > professional-portfolio@0.1.0 build
 > react-scripts build
 
-(node:14368) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\Users\Trevor Pino\Desktop\trevor-pino\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+(node:7972) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\Users\Trevor Pino\Desktop\trevor-pino\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
 Update this package.json to use a subpath pattern like "./*".
 (Use `node --trace-deprecation ...` to show where the warning was created)
 Creating an optimized production build...
@@ -44,14 +44,11 @@ Find out more about deployment here:
 
   https://cra.link/deployment
 
+
 > professional-portfolio@0.1.0 deploy
 > gh-pages -d build
 
-git@github.com: Permission denied (publickey).
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
+fatal: A branch named 'gh-pages' already exists.
 
 npm ERR! code 1
 npm ERR! path C:\Users\Trevor Pino\Desktop\trevor-pino
@@ -59,4 +56,4 @@ npm ERR! command failed
 npm ERR! command C:\WINDOWS\system32\cmd.exe /d /s /c gh-pages -d build
 
 npm ERR! A complete log of this run can be found in:
-npm ERR!     C:\Users\Trevor Pino\AppData\Local\npm-cache\_logs\2020-12-30T16_58_49_157Z-debug.log
+npm ERR!     C:\Users\Trevor Pino\AppData\Local\npm-cache\_logs\2020-12-30T22_19_37_316Z-debug.log
