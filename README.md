@@ -16,7 +16,7 @@
   
   ---
   ## Active Sites 
-  [**Live Site**](https://github.com/TPino92/proffesional-portfolioo)  
+  [**Live Site**](https://tpino92.github.io/proffesional-portfolio/)  
   [**GitHub Repo**](https://github.com/TPino92/proffesional-portfolio) 
   
   ## Questions?
