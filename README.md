@@ -17,7 +17,7 @@
   ---
   ## Active Sites 
   [**Live Site**](https://github.com/TPino92/proffesional-portfolioo)  
-  [**GitHub Repo**](https://github.com/jesusmanteca/React-Portfolio) 
+  [**GitHub Repo**](https://github.com/TPino92/proffesional-portfolio) 
   
   ## Questions?
   
