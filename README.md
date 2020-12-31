@@ -6,9 +6,7 @@
 
   ## Table of Contents
   * [Installation](#installation)
-  * [In-use](#in-use)  
-  * [Contributors](#contributors)
-  
+  * [Active Sites](#active-sites)  
   
   ## Installation
   
@@ -25,5 +23,6 @@
   
   For any questions, please contact me with the information below:
 
- [**Email**](trevorpino@yahoo.com)
- [**Github**](https://github.com/TPino92)
+ [**Github**](https://github.com/TPino92)  
+ or email me at:  
+ trevorpino@yahoo.com
