@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/proffesional-portfolio/static/css/main.12b16948.chunk.css",
-    "main.js": "/proffesional-portfolio/static/js/main.8eae3623.chunk.js",
-    "main.js.map": "/proffesional-portfolio/static/js/main.8eae3623.chunk.js.map",
+    "main.js": "/proffesional-portfolio/static/js/main.1d0485bb.chunk.js",
+    "main.js.map": "/proffesional-portfolio/static/js/main.1d0485bb.chunk.js.map",
     "runtime-main.js": "/proffesional-portfolio/static/js/runtime-main.8655a1f1.js",
     "runtime-main.js.map": "/proffesional-portfolio/static/js/runtime-main.8655a1f1.js.map",
     "static/js/2.1debd97f.chunk.js": "/proffesional-portfolio/static/js/2.1debd97f.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/me.54b8eba1.jpg": "/proffesional-portfolio/static/media/me.54b8eba1.jpg",
     "static/media/news-on-the-balance.10d74f4e.png": "/proffesional-portfolio/static/media/news-on-the-balance.10d74f4e.png",
     "static/media/photo-port.54de43cf.png": "/proffesional-portfolio/static/media/photo-port.54de43cf.png",
-    "static/media/private-reserve.18fb6ba7.png": "/proffesional-portfolio/static/media/private-reserve.18fb6ba7.png",
+    "static/media/private-reserve-2.96ae9c11.png": "/proffesional-portfolio/static/media/private-reserve-2.96ae9c11.png",
     "static/media/run-buddy.a4258d4f.png": "/proffesional-portfolio/static/media/run-buddy.a4258d4f.png",
     "static/media/workday-calendar.08231bd5.png": "/proffesional-portfolio/static/media/workday-calendar.08231bd5.png"
   },
@@ -24,6 +24,6 @@
     "static/js/runtime-main.8655a1f1.js",
     "static/js/2.1debd97f.chunk.js",
     "static/css/main.12b16948.chunk.css",
-    "static/js/main.8eae3623.chunk.js"
+    "static/js/main.1d0485bb.chunk.js"
   ]
 }

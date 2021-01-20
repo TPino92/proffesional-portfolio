@@ -3,7 +3,7 @@ import horiseonSolutions from "../../assets/img/horiseon-solutions.png";
 import newsOnTheBalance from "../../assets/img/news-on-the-balance.png";
 import workdayCalendar from "../../assets/img/workday-calendar.png";
 import runBuddy from "../../assets/img/run-buddy.png";
-import privateReserve from "../../assets/img/private-reserve.png";
+import privateReserve from "../../assets/img/private-reserve-2.png";
 import photoPort from "../../assets/img/photo-port.png";
 
 function Projects() {
@@ -12,7 +12,7 @@ function Projects() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm">
-                        <a href="https://github.com/TPino92/private-reserve/" target="_blank" rel="noreferrer">
+                        <a href="https://stormy-thicket-95921.herokuapp.com/" target="_blank" rel="noreferrer">
                             <img src={privateReserve} className="my-2" style={{ width: "100%" }} alt="Private Reserve" />
                         </a>
                     </div>
